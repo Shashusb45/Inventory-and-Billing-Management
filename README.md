@@ -31,6 +31,7 @@ Open mysql command prompt(as Administrator) and run the following command:-
 
 ```bash
   create database warehousedb;
+  Use warehousedb;
 ```
 
 Copy that sql file into this location (Your MySQL Server version could be different)
